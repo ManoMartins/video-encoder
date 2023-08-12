@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ManoMartins/video-encoder/internal/domain"
+	"github.com/ManoMartins/video-encoder/domain"
 	uuid "github.com/satori/go.uuid"
 	"github.com/stretchr/testify/require"
 )
